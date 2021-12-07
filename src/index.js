@@ -19,6 +19,6 @@ app.use('/api/getAllBaseballCaps',require('./routes/getAllBaseballCaps'));
 app.use('/api/getAllBerets',require('./routes/getAllBerets'));
 app.use('/api/getHatById',require('./routes/getHatById'));
 //starting the server
-app.listen(3000, () => {
+app.listen(process.env.PORT, () => {
     console.log(`Server on port ${app.get('port')}`);
 });
