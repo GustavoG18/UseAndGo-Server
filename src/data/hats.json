@@ -1,0 +1,1017 @@
+[
+  {
+    "category": "Army Caps",
+    "hats": [
+      {
+        "id": "armyCap1",
+        "images": [
+          {
+            "color": "27,30,44",
+            "url": "https://www.kangol.com/media/catalog/product/9/7/9720bc_nv411_main_3.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "180,180,178",
+            "url": "https://www.kangol.com/media/catalog/product/9/7/9720bc-kangol-cotton-twill-army-cap-silver-1k_3.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "183,167,124",
+            "url": "https://www.kangol.com/media/catalog/product/9/7/9720bc-kangol_-cotton-twill-army-cap-beige-1_3.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Army Caps",
+        "title": "Cotton Twill Army Cap",
+        "details": "This selection from Kangol is a classic military influenced cap that adds the fashionable urban flair that only this iconic brand can provide. It has a hidden pocket on the inside in the top panel, adding a new layer to the phrase keep it under your hat, and the patented Flexfit headband means this cap is always easy to wear & comfortable.",
+        "price": "$38",
+        "available": "10",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      },
+      {
+        "id": "armyCap2",
+        "images": [
+          {
+            "color": "44,45,49",
+            "url": "https://www.kangol.com/media/catalog/product/5/0/5067BC_IN424_MAIN.JPG?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "108,105,81",
+            "url": "https://www.kangol.com/media/catalog/product/5/0/5067bc-kangol-denim-flexfit-army-cap-beige-1_2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "69,69,69",
+            "url": "https://www.kangol.com/media/catalog/product/5/0/5067bc-kangol-denim-flexfit-army-cap-black-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Army Caps",
+        "title": "Denim Flexfit Army Cap",
+        "details": "The Denim Flexfit Army Cap is a classic military style cap in stretch Denim. It has a hidden pocket on the inside in the top panel, so you really can keep it under your hat. The patented Flexfit headband means the hat is easy to wear & comfortable.",
+        "price": "$38",
+        "available": "20",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      },
+      {
+        "id": "armyCap3",
+        "images": [
+          {
+            "color": "208,209,213",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4224ht_white_front_2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "52,52,52",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4224ht_black_main_5.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "27,36,52",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4224ht_ss079_maink_4.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Army Caps",
+        "title": "Washed Bucket Hat",
+        "details": "The Washed Bucket Hat is the perfect wardrobe accessory for a clean and timeless look for all seasons. It features 100% lightweight cotton material, a flat crown, a 2 1/4 brim, and cross-hatching on the embroidered kangaroo logo that adds definition to complete the iconic Kangol look. It’s available in several colors to reflect the current season and your current mood.",
+        "price": "$45",
+        "available": "15",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      },
+      {
+        "id": "armyCap4",
+        "images": [
+          {
+            "color": "146,146,146",
+            "url": "https://www.kangol.com/media/catalog/product/2/_/2_267996_zm.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "47,46,51",
+            "url": "https://www.kangol.com/media/catalog/product/k/0/k0471fa_nv411_main.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Army Caps",
+        "title": "Textured Wool Army Cap",
+        "details": "The Textured Wool Army Cap is a military-grade style cap with unique classic styling and balanced design. This wool-blend cap features a flexible stretch canvas fabric on both side and back panels. The cap’s front and peak panel feature a twill textured weave. The cap also features the FlexFit stretch technology on the sweatband that makes it comfortable and easy to wear.",
+        "price": "$40",
+        "available": "25",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      },
+      {
+        "id": "armyCap5",
+        "images": [
+          {
+            "color": "160,207,205",
+            "url": "https://www.kangol.com/media/catalog/product/0/3/0397bc-kangol-bermuda-casual-blue-tint-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "116,116,109",
+            "url": "https://www.kangol.com/media/catalog/product/0/3/0397bc-kangol-bermuda-casual-concrete-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "238,227,147",
+            "url": "https://www.kangol.com/media/catalog/product/0/3/0397bc-kangol-bermuda-casual-lemon-sorbet-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Army Caps",
+        "title": "Bermuda Casual",
+        "details": "The Bermuda Casual is an original icon that’s been making an unforgettable impression on the beach and the dancefloor alike for generations. The Casual shape in Kangol proprietary textured Bermuda material is a classic Kangol® style.",
+        "price": "$51",
+        "available": "5",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      }
+    ]  
+  },
+  {
+    "category": "Baseball Caps",
+    "hats": [
+      {
+        "id": "baseballCaps1",
+        "images": [
+          {
+            "color": "34,34,36",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4409pj-kangol-_-mastermind-japan-faux-fur-baseball-black-1_4.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Baseball Caps",
+        "title": "KANGOL x mastermind JAPAN FAUXFUR BASEBALL",
+        "details": "The KANGOL x mastermind JAPAN FAUXFUR BASEBALL is a cut & sew style made of a luxurious & soft faux fur. It is finished with the iconic Mastermind logo on the front & Kangol logo on the back.",
+        "price": "$85",
+        "available": "30",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      },
+      {
+        "id": "baseballCaps2",
+        "images": [
+          {
+            "color": "64,72,58",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4367_ol301_maink_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "159,159,165",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4367_sl042_maink_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "36,37,41",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4367_bk001_maink_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Baseball Caps",
+        "title": "Iridescent Baseball",
+        "details": "The Iridescent Baseball by Kangol is sure to be a festival favorite and a way to stay stylish while on the go. Based on Kangol's classic baseball fit, the Iridescent is crafted from an ultra modern material that is water repellent.",
+        "price": "$50",
+        "available": "14",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      },
+      {
+        "id": "baseballCaps3",
+        "images": [
+          {
+            "color": "32,35,44",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4316sp_ss079_maink_2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "34,35,40",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4316sp_bk001_maink_2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Baseball Caps",
+        "title": "Tech Flexfit Cap",
+        "details": "The Tech Flexfit Cap by Kangol is the best selling Flexfit baseball cap that features a light reflective tech fabric along the brim edge and within the Kangol logo. The baseball cap is finished with a Flexfit sweatband for ultimate comfort and fit.",
+        "price": "$40",
+        "available": "18",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      },
+      {
+        "id": "baseballCaps4",
+        "images": [
+          {
+            "color": "54,79,128",
+            "url": "https://www.kangol.com/media/catalog/product/5/1/5128bc-kangol-3d-wool-flexfit-mykonos-blue-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "23,24,29",
+            "url": "https://www.kangol.com/media/catalog/product/5/1/5128bc_bk001_main_3.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "143,145,144",
+            "url": "https://www.kangol.com/media/catalog/product/5/1/5128bc-kangol-3d-wool-flexfit-white-black-1k_2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Baseball Caps",
+        "title": "3D Wool Flexfit Baseball",
+        "details": "If you’re looking for a classic baseball hat shape, the 3D Wool Flexfit baseball cap is the perfect choice for you. Discover a comfortable fit for your head as well as unique design features that make this hat stand out! With beautiful embroidery to rival even the highest quality hats, the iconic Kangol kangaroo practically hops off the crown and onto the brim. Run your fingers over the three-dimensional stitching and enjoy wearing this hat with every casual outfit.",
+        "price": "$38",
+        "available": "4",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      },
+      {
+        "id": "baseballCaps5",
+        "images": [
+          {
+            "color": "135,186,218",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4360_ra602_maink_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "128,112,41",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4360-kangol-tie-dye-baseball-golden-palm-1k_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Baseball Caps",
+        "title": "Tie Dye Baseball",
+        "details": "Show your love for classic fits with the Kangol Tie-Dye Baseball cap. This lightweight summer hat features a 6-panel crown made with durable cotton, all colored in a tie-dye print with the iconic Kangol logo embroidered on the center front. Its adjustable back strap ensures it will fit most head sizes and hairstyles. No matter who you are, this cap was made to make sure your summer stays fresh and fun.",
+        "price": "$30",
+        "available": "50",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Berets",
+    "hats": [
+      {
+        "id": "berets1",
+        "images": [
+          {
+            "color": "144,138,197",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4369_ll537_maink_2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "103,92,78",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4369_tc265_maink_2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "49,50,42",
+            "url": "https://www.kangol.com/media/catalog/product/k/4/k4369_tb211_maink_2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Berets",
+        "title": "Faux Fur Beret",
+        "details": "The Faux Fur Beret has an oversize fit in an ultra plush faux fur that you won't want to let go of. The band is finished in a faux leather for a luxe feel and will look great on top of any outfit.",
+        "price": "$65",
+        "available": "40",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      },
+      {
+        "id": "berets2",
+        "images": [
+          {
+            "color": "45,43,54",
+            "url": "https://www.kangol.com/media/catalog/product/0/2/0248ht_dkblue.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "10,10,10",
+            "url": "https://www.kangol.com/media/catalog/product/0/2/0248ht_black_5.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "128,37,47",
+            "url": "https://www.kangol.com/media/catalog/product/0/2/0248ht_red_5.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Berets",
+        "title": "Monty® Wool Beret",
+        "details": "Field Marshal Montgomery for whom the hat is named wore a Kangol® Beret as he commanded Allied troops in World War II. This Kangol® military beret has made a fashionable transition from the battlefield to the streets.",
+        "price": "$60",
+        "available": "8",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      },
+      {
+        "id": "berets3",
+        "images": [
+          {
+            "color": "74,95,76",
+            "url": "https://www.kangol.com/media/catalog/product/k/3/k3408_sm303_maink_4.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "10,10,10",
+            "url": "https://www.kangol.com/media/catalog/product/k/3/k3408_bk001_maink_4.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "220,198,199",
+            "url": "https://www.kangol.com/media/catalog/product/k/3/k3408_dr667_maink_4.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Berets",
+        "title": "2-Tone Bermuda Jax Beret",
+        "details": "The 2-Tone Bermuda Jax Beret takes our beloved Jax Beret forward with its color-blocked details. The proprietary textured Bermuda yarn means that this is a truly unique style that you won't find any where else. ",
+        "price": "$60",
+        "available": "19",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      },
+      {
+        "id": "berets4",
+        "images": [
+          {
+            "color": "114,24,17",
+            "url": "https://www.kangol.com/media/catalog/product/3/3/3388BC_RD608_MAIN.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "34,50,50",
+            "url": "https://www.kangol.com/media/catalog/product/3/3/3388bc_dl310_maink_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "110,50,37",
+            "url": "https://www.kangol.com/media/catalog/product/K/a/Kangol-Modelaine-Beret-Beret-Fire-Opal-MAIN-792179712562-1178.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Berets",
+        "title": "Modelaine Beret",
+        "details": "The beret is the first item Kangol® ever made. The Modelaine Beret uses the same processes as the founders did in 1938 to make the finest wool beret available.This style is a One Size Fits Most that fits closer to a Medium / 56cm. As seen in Vogue and InStyle magazine. Seen online at POPSUGAR.",
+        "price": "$55",
+        "available": "32",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      },
+      {
+        "id": "berets5",
+        "images": [
+          {
+            "color": "135,121,96",
+            "url": "https://www.kangol.com/media/catalog/product/k/3/k3107st_tp207_maink_4.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "10,10,10",
+            "url": "https://www.kangol.com/media/catalog/product/k/3/k3107st_bk001_main_4.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          },
+          {
+            "color": "119,40,82",
+            "url": "https://www.kangol.com/media/catalog/product/k/3/k3107st-kangol-wool-jax-beret-electric-pink-1k_4.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=600&width=600&canvas=600:600"
+          }
+        ],
+        "tags": "Berets",
+        "title": "Wool Jax Beret",
+        "details": "The Wool Jax Beret has impressions creating 8 quartered panels on the crown with a fillet at the base. The volume of the beret means that it can be styled in multiple ways. It can also be worn with the Kangaroo logo at the front or the back.",
+        "price": "$65",
+        "available": "43",
+        "comments": [
+          {
+          "name": "Gustavo Guerrero",
+          "reviews": "5",
+          "date": "12/07/21",
+          "title": "Awesome",
+          "message": "I love this hat, It's all my style!",
+          "likes": "5",
+          "dislike": "0"
+          },
+          {
+            "name": "Amelia Brown",
+            "reviews": "5",
+            "date": "12/07/21",
+            "title": "Extraordinary",
+            "message": "Incredible quality and perfect figure",
+            "likes": "10",
+            "dislike": "0"
+          },
+          {
+            "name": "Oliver Murphy",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Nice",
+            "message": "It's all that I expected, but the hat went one day late.",
+            "likes": "1",
+            "dislike": "0"
+          },
+          {
+            "name": "James Smith",
+            "reviews": "5",
+            "date": "12/08/21",
+            "title": "Wow!",
+            "message": "The product is incredible, I want to buy more!",
+            "likes": "0",
+            "dislike": "1"
+          },{
+            "name": "Emily Johnson",
+            "reviews": "4",
+            "date": "12/08/21",
+            "title": "Perfect",
+            "message": "The product is incredible, but the hat went two days late",
+            "likes": "3",
+            "dislike": "0"
+          }
+        ]
+      }
+    ]
+  }
+]
