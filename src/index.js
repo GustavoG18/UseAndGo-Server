@@ -3,7 +3,7 @@ const morgan = require('morgan');
 const cors = require('cors');
 const app = express();
 //settings
-app.set('port', process.env.PORT || 3000); /// validacion por si existe un puerto
+app.set('port', process.env.PORT || 3001); /// validacion por si existe un puerto
 app.set('json spaces', 2);
 
 // middlewares
