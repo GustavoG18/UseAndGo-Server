@@ -7,7 +7,7 @@ router.get('/', async (req,res) => {
     return hats;
   });
   const response = [...dataMap[0],...dataMap[1],...dataMap[2]]
-  res.json({category: 'All Products', hats: response});
+  res.json([{category: 'All Products', hats: response}]);
 });
 
 module.exports = router; 
